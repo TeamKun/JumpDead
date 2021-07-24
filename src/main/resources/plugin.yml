@@ -1,0 +1,4 @@
+name: JumpDead
+version: ${project.version}
+main: net.kunmc.lab.jumpdead.JumpDead
+api-version: 1.16
